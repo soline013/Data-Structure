@@ -29,5 +29,8 @@ Binary Search Tree 자료구조에 대한 설명과 구현이 포함되어 있�
 ## MaxHeap.
 MaxHeap 자료구조에 대한 설명과 구현이 포함되어 있습니다.
 
+## Hash.
+Hash에 대한 설명이 포함되어 있습니다.
+
 ## Time-Measurement.
 성능 향상을 측정하기 위한 시간 측정 코드입니다.
